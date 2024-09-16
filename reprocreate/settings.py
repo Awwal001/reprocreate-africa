@@ -32,6 +32,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1', 
     'localhost', 
     '.vercel.app', 
+    'https://reprocreate-africa.onrender.com',
+    'reprocreate-africa.onrender.com',
     'http://localhost:3003', 
     'https://localhost:3003', 
     'http://127.0.0.1:3003',
